@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactFlowConcept/static/css/main.cf3e6f8e.css",
+    "main.js": "/ReactFlowConcept/static/js/main.ea2fa9e3.js",
+    "index.html": "/ReactFlowConcept/index.html",
+    "main.cf3e6f8e.css.map": "/ReactFlowConcept/static/css/main.cf3e6f8e.css.map",
+    "main.ea2fa9e3.js.map": "/ReactFlowConcept/static/js/main.ea2fa9e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf3e6f8e.css",
+    "static/js/main.ea2fa9e3.js"
+  ]
+}
